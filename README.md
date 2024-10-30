@@ -1,8 +1,5 @@
 # bikedicoding
 
-## Preview
-![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/preview.png)
-
 ## Project Analisis Data
 
 Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit** 
@@ -41,9 +38,3 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
     ```
     Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bike-sharing-ariniamsr.streamlit.app/)
 
-## Kontribusi
-Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
-
-## Review
-berikut merupakan penilaian dari Dicoding
-![Bike Sharing Dashboard Review](https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/Penilaian%20dari%20dicoding.png)
